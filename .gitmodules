@@ -42,3 +42,8 @@
 	path = OCA/e-commerce
 	url = git@github.com:OCA/e-commerce.git
 	branch = 14.0
+
+[submodule "stesi/stesi_listview_sticky_header"]
+	path = stesi/stesi_listview_sticky_header
+	url = git@github.com:stesi/stesi_listview_sticky_header.git
+	branch = 14.0
