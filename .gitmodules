@@ -47,3 +47,8 @@
 	path = stesi/stesi_listview_sticky_header
 	url = git@github.com:stesi/stesi_listview_sticky_header.git
 	branch = 14.0
+
+[submodule "stesi/sale_order_line_by_warehouse_app"]
+	path = stesi/sale_order_line_by_warehouse_app
+	url = git@github.com:stesi/sale_order_line_by_warehouse_app.git
+	branch = 14.0
