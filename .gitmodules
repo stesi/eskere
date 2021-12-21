@@ -52,3 +52,8 @@
 	path = stesi/sale_order_line_by_warehouse_app
 	url = git@github.com:stesi/sale_order_line_by_warehouse_app.git
 	branch = 14.0
+
+[submodule "stesi/stesi_l10n_improvements"]
+	path = stesi/stesi_l10n_improvements
+	url = git@github.com:stesi/stesi_l10n_improvements.git
+	branch = 14.0
