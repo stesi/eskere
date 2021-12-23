@@ -57,3 +57,8 @@
 	path = stesi/stesi_l10n_improvements
 	url = git@github.com:stesi/stesi_l10n_improvements.git
 	branch = 14.0
+
+[submodule "OCA/website"]
+	path = OCA/website
+	url = git@github.com:OCA/website.git
+	branch = 14.0
