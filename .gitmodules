@@ -67,3 +67,8 @@
 	path = stesi/stesi_stock
 	url = git@github.com:stesi/stesi_stock.git
 	branch = 14.0
+
+[submodule "stesi/stesi_stock_quant_product"]
+	path = stesi/stesi_stock_quant_product
+	url = git@github.com:stesi/stesi_stock_quant_product.git
+	branch = main
