@@ -87,3 +87,8 @@
 	path = OCA/sale-reporting
 	url = git@github.com:OCA/sale-reporting.git
 	branch = 14.0
+
+[submodule "stesi/stesi_purchase"]
+	path = stesi/stesi_purchase
+	url = git@github.com:stesi/stesi_purchase.git
+	branch = 14.0
