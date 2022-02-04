@@ -77,3 +77,8 @@
 	path = stesi/additional_statusbar_saleorder
 	url = git@github.com:stesi/additional_statusbar_saleorder.git
 	branch = 14.0
+
+[submodule "stesi/sale_order_hide_prices"]
+	path = stesi/sale_order_hide_prices
+	url = git@github.com:stesi/sale_order_hide_prices.git
+	branch = 14.0
