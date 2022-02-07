@@ -92,3 +92,8 @@
 	path = stesi/stesi_purchase
 	url = git@github.com:stesi/stesi_purchase.git
 	branch = 14.0
+
+[submodule "OCA/server-tools"]
+	path = OCA/server-tools
+	url = git@github.com:OCA/server-tools.git
+	branch = 14.0
