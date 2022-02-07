@@ -77,3 +77,28 @@
 	path = stesi/additional_statusbar_saleorder
 	url = git@github.com:stesi/additional_statusbar_saleorder.git
 	branch = 14.0
+
+[submodule "stesi/sale_order_hide_prices"]
+	path = stesi/sale_order_hide_prices
+	url = git@github.com:stesi/sale_order_hide_prices.git
+	branch = 14.0
+
+[submodule "OCA/sale-reporting"]
+	path = OCA/sale-reporting
+	url = git@github.com:OCA/sale-reporting.git
+	branch = 14.0
+
+[submodule "stesi/stesi_purchase"]
+	path = stesi/stesi_purchase
+	url = git@github.com:stesi/stesi_purchase.git
+	branch = 14.0
+
+[submodule "OCA/server-tools"]
+	path = OCA/server-tools
+	url = git@github.com:OCA/server-tools.git
+	branch = 14.0
+
+[submodule "OCA/sale-workflow"]
+	path = OCA/sale-workflow
+	url = git@github.com:OCA/sale-workflow.git
+	branch = 14.0
