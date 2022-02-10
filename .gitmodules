@@ -102,3 +102,8 @@
 	path = OCA/sale-workflow
 	url = git@github.com:OCA/sale-workflow.git
 	branch = 14.0
+
+[submodule "ingegniamo/odoo_shift_key_selection"]
+	path = ingegniamo/odoo_shift_key_selection
+	url = git@github.com:ingegniamo/odoo_shift_key_selection.git
+	branch = 14.0
