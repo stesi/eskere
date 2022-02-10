@@ -102,3 +102,8 @@
 	path = ingegniamo/odoo_shift_key_selection
 	url = git@github.com:ingegniamo/odoo_shift_key_selection.git
 	branch = 14.0
+
+[submodule "stesi/additional_phase_orders"]
+	path = stesi/additional_phase_orders
+	url = git@github.com:stesi/additional_phase_orders.git
+	branch = 14.0
