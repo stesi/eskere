@@ -73,11 +73,6 @@
 	url = git@github.com:stesi/stesi_stock_quant_product.git
 	branch = main
 
-[submodule "stesi/additional_statusbar_saleorder"]
-	path = stesi/additional_statusbar_saleorder
-	url = git@github.com:stesi/additional_statusbar_saleorder.git
-	branch = 14.0
-
 [submodule "stesi/sale_order_hide_prices"]
 	path = stesi/sale_order_hide_prices
 	url = git@github.com:stesi/sale_order_hide_prices.git
@@ -101,4 +96,14 @@
 [submodule "OCA/sale-workflow"]
 	path = OCA/sale-workflow
 	url = git@github.com:OCA/sale-workflow.git
+	branch = 14.0
+
+[submodule "ingegniamo/odoo_shift_key_selection"]
+	path = ingegniamo/odoo_shift_key_selection
+	url = git@github.com:ingegniamo/odoo_shift_key_selection.git
+	branch = 14.0
+
+[submodule "stesi/additional_phase_orders"]
+	path = stesi/additional_phase_orders
+	url = git@github.com:stesi/additional_phase_orders.git
 	branch = 14.0
