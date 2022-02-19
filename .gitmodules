@@ -112,3 +112,8 @@
 	path = ingegniamo/sale_total_goal
 	url = git@github.com:ingegniamo/sale_total_goal.git
 	branch = 14.0
+
+[submodule "stesi/eskere_custom_sale_reports"]
+	path = stesi/eskere_custom_sale_reports
+	url = git@github.com:stesi/eskere_custom_sale_reports.git
+	branch = 14.0
