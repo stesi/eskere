@@ -1,0 +1,4 @@
+[submodule "ingegniamo/sale_ddp"]
+	path = ingegniamo/sale_ddp
+	url = git@github.com:ingegniamo/sale_ddp.git
+	branch = 14.0
