@@ -132,3 +132,8 @@
 	path = stesi/stesi_utilities
 	url = git@github.com:stesi/stesi_utilities.git
 	branch = 14.0
+
+[submodule "stesi/eskere_improvments"]
+	path = stesi/eskere_improvments
+	url = git@github.com:stesi/eskere_improvments.git
+	branch = 14.0
