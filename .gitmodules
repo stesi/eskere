@@ -137,3 +137,8 @@
 	path = stesi/eskere_improvments
 	url = git@github.com:stesi/eskere_improvments.git
 	branch = 14.0
+
+[submodule "ingegniamo/delivery_margin"]
+	path = ingegniamo/delivery_margin
+	url = git@github.com:ingegniamo/delivery_margin.git
+	branch = 14.0
