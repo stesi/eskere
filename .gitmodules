@@ -142,3 +142,8 @@
 	path = ingegniamo/delivery_margin
 	url = git@github.com:ingegniamo/delivery_margin.git
 	branch = 14.0
+
+[submodule "ingegniamo/dashboard_ninja"]
+	path = ingegniamo/dashboard_ninja
+	url = git@github.com:ingegniamo/dashboard_ninja.git
+	branch = 14.0
